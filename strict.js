@@ -5,7 +5,9 @@ var obj = {
 };
 
 function x() {
-    console.log(this);
+    console.log(this)
+    console.log(123);
+    
 }
 
 x();
